@@ -1,6 +1,4 @@
-CLIPS> (reset)
-<== f-0     (initial-fact)
-==> f-0     (initial-fact)
+puzzle : grid3x3-p8.clp
 CLIPS> (run)
 ==> f-1     (technique (name Naked-Single) (rank 1))
 ==> f-2     (technique (name Hidden-Single) (rank 2))
